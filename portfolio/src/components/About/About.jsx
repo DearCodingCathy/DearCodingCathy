@@ -25,18 +25,18 @@ export default function About() {
           <div className="social-media">
           <ul class='nav-list'>
             <li>
-              <a href='' className='icon-link'>
+              <a href='https://www.linkedin.com/in/catherinebalogun/' className='icon-link'>
               <TiSocialLinkedin className='icon'/>
               </a>
             </li>
 
             <li>
-              <a href='' className='icon-link'>
+              <a href='https://github.com/DearCodingCathy' className='icon-link'>
               <TiSocialGithub className='icon'/>
               </a>
             </li>
             <li>
-              <a href='' className='icon-link'>
+              <a href='https://www.instagram.com/codingcathy/' className='icon-link'>
               <FiInstagram className='icon'/>
               </a>
             </li>

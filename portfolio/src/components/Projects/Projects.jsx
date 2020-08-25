@@ -21,7 +21,7 @@ export default function Projects() {
             <p>
               ajdhiwnkwjfnifnksjnnfoifnskjnfdnoiafnkajn
             </p>
-            <a href='#' className='cta'>View Details</a>
+            <a href='https://dearcodingcathy.github.io/Lipsync-for-your-life/' className='cta'>View Details</a>
           </div>
           </div>
 
@@ -32,7 +32,7 @@ export default function Projects() {
             <p>
               ajdhiwnkwjfnifnksjnnfoifnskjnfdnoiafnkajn
             </p>
-            <a href='#' className='cta'>View Details</a>
+            <a href='https://sephoney.netlify.app/' className='cta'>View Details</a>
             </div>
           <div className="project-img ">
             <img src='https://i.imgur.com/HKhWOhD.png' alt='Sephoney Laptop'/>
@@ -49,7 +49,7 @@ export default function Projects() {
             <p>
               ajdhiwnkwjfnifnksjnnfoifnskjnfdnoiafnkajn
             </p>
-            <a href='#' className='cta'>View Details</a>
+            <a href='https://breathe-app-mcks.netlify.app/' className='cta'>View Details</a>
             </div>
             </div>
 
@@ -60,7 +60,7 @@ export default function Projects() {
             <p>
               ajdhiwnkwjfnifnksjnnfoifnskjnfdnoiafnkajn
             </p>
-            <a href='#' className='cta'>View Details</a>
+            <a href='https://coppedheat.netlify.app/' className='cta'>View Details</a>
             </div>
           <div className="project-img ">
             <img src='https://i.imgur.com/obsiEer.png' alt='Copped laptop'/>
