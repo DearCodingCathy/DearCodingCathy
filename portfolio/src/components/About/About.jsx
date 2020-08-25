@@ -14,7 +14,7 @@ export default function About() {
         <div className="about-details">
           <div className="about-heading">
           <h2>About</h2>
-          <h6>Myself</h6>
+          <h6>Catherine</h6>
           </div>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 

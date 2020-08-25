@@ -23,6 +23,7 @@
 
 .profile-img {
   flex: 1;
+  /* max-width: 50rem; */
   margin-right: 5rem;
 }
 

@@ -3,10 +3,10 @@
   border-radius: .8rem;
   background-color: rgba(0, 0, 0, 0.05);
   margin: 0 auto;
-  position: relative;
+  /* position: relative; */
   list-style: none;
-  text-align: left;
-  width: 70%;
+  /* text-align: left; */
+  width: 60%;
 }
 
 .timeline h2 {
@@ -25,7 +25,7 @@
 }
 
 .timeline .date:last-of-type {
-  padding-bottom: 0;
+  /* padding-bottom: 0; */
   margin-bottom: 0;
   border: none;
 }
@@ -42,8 +42,8 @@
   content: attr(data-date);
   left: -21rem;
   text-align: right;
-  min-width: 12rem;
-  font-size: 1.5rem;
+  min-width: 16rem;
+  font-size: 1.3rem;
 }
 
 .timeline .date::after{

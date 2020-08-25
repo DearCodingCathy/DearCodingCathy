@@ -13,11 +13,11 @@ export default function Projects() {
         
         <div className="project-item">
           <div className="project-img has-margin-right">
-            <img src='https://i.imgur.com/00xd3pX.jpg' alt='Catherine photo needs to be changed'/>
+            <img src='https://i.imgur.com/5WxCEpa.png' alt='Lipsync Desktop'/>
           </div>
           <div className="project-description">
             <h6>Web Development</h6>
-            <h2>Blog Website</h2>
+            <h2>Lipsync for your life</h2>
             <p>
               ajdhiwnkwjfnifnksjnnfoifnskjnfdnoiafnkajn
             </p>
@@ -28,24 +28,24 @@ export default function Projects() {
           <div className="project-item">
             <div className="project-description has-margin-right">
             <h6>Web Design</h6>
-            <h2>Blog Website</h2>
+            <h2>Sephoney</h2>
             <p>
               ajdhiwnkwjfnifnksjnnfoifnskjnfdnoiafnkajn
             </p>
             <a href='#' className='cta'>View Details</a>
             </div>
           <div className="project-img ">
-            <img src='https://i.imgur.com/00xd3pX.jpg' alt='Catherine photo needs to be changed'/>
+            <img src='https://i.imgur.com/HKhWOhD.png' alt='Sephoney Laptop'/>
           </div>
             </div>
 
             <div className="project-item">
           <div className="project-img has-margin-right">
-            <img src='https://i.imgur.com/00xd3pX.jpg' alt='Catherine photo needs to be changed'/>
+            <img src='https://i.imgur.com/yLtUvAh.png' alt='Breathe Desktop'/>
           </div>
           <div className="project-description">
             <h6>Software Development</h6>
-            <h2>Blog Website</h2>
+            <h2>Breathe</h2>
             <p>
               ajdhiwnkwjfnifnksjnnfoifnskjnfdnoiafnkajn
             </p>
@@ -56,14 +56,14 @@ export default function Projects() {
           <div className="project-item">
               <div className="project-description has-margin-right">
             <h6>Web Development</h6>
-            <h2>Blog Website</h2>
+            <h2>Copped</h2>
             <p>
               ajdhiwnkwjfnifnksjnnfoifnskjnfdnoiafnkajn
             </p>
             <a href='#' className='cta'>View Details</a>
             </div>
           <div className="project-img ">
-            <img src='https://i.imgur.com/00xd3pX.jpg' alt='Catherine photo needs to be changed'/>
+            <img src='https://i.imgur.com/obsiEer.png' alt='Copped laptop'/>
           </div>
             </div>
         </div>

@@ -13,8 +13,8 @@ html {
 body {
   width: 100%;
   height: 100%;
-  background-color: blueviolet;
-  /* background: url('') no-repeat center fixed; */
+  /* background-color: blueviolet; */
+  background: url('https://i.imgur.com/FnM0Rve.png') no-repeat center fixed;
   background-size: cover;
 }
 
@@ -43,7 +43,7 @@ img {
 }
 
 section {
-  padding: 6rem;
+  padding: 6rem 0;
 }
 
 .section-heading {
@@ -90,4 +90,124 @@ section {
 
 .has-margin-right {
   margin-right: 5rem;
+}
+
+
+/* media queries */
+
+@media screen and (max-width: 768px) {
+  body {
+  /* background-color: rgb(228, 129, 231); */
+  background: url('https://i.imgur.com/FnM0Rve.png') no-repeat center fixed;
+  background-size: cover;
+}
+
+.landing-text h2 {
+  font-size: 15rem;
+}
+
+.landing-text h6 {
+  font-size: 1.7rem;
+}
+
+.nav-list {
+  flex-direction: column;
+}
+
+li {
+  margin: 2rem 0;
+}
+.nav-link {
+  font-size: 4.5rem;
+}
+
+.about-heading h2{
+  font-size: 8rem;
+}
+.section-heading h2{
+  font-size: 3rem;
+}
+.about-details .nav-list {
+  flex-direction: initial;
+}
+
+.about-details li {
+  margin: 0 2rem;
+}
+
+.icon-container {
+  font-size: 7rem;
+  width: 7rem;
+}
+
+.icon-container i {
+font-size: 4rem;
+}
+
+.timeline ul {
+  margin: 0 0 0 auto;
+}
+
+.timeline .date::before {
+  left: -20rem;
+}
+
+.timeline .date::after {
+left: -5.9rem;
+}
+}
+
+@media screen and (max-width: 600px) {
+  .menu-toggler {
+    top: 2rem;
+    right: 2rem;
+  }
+
+  .landing-text h2{
+    font-size: 8rem;
+  }
+
+  .landing-text h6 {
+    font-size: 1.4rem;
+  }
+
+  .nav-link {
+    font-size: 3.5rem;
+  }
+
+  .about .container {
+    flex-direction: column;
+  }
+
+  .profile-img {
+    margin: 0 0 7rem 0;
+  }
+  .project-item {
+    flex-direction: column;
+  }
+
+  .project-img {
+  margin: 0 0 2rem 0;
+  order: 1;
+  }
+
+  .project-description {
+    margin: 0;
+    order: 2;
+  }
+
+  .timeline p {
+    font-size: 1.6rem;
+  }
+
+  .timeline .date::before {
+    font-size: 1.4rem;
+  }
+
+  form {
+    width: 100%;
+  }
+  .up{
+    right: 2rem;
+  }
 }

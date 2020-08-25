@@ -27,3 +27,16 @@ header {
   font-size: 2rem;
   font-weight: 300;
 }
+
+@media screen and (max-width: 600px) {
+.landing-text h1 {
+  font-size: 15rem;
+  font-family: 'Zhi Mang Xing', cursive;
+  background: linear-gradient(to top, #ffe838, #fd57bf);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  padding: 3rem;
+  user-select: none;
+}
+
+}

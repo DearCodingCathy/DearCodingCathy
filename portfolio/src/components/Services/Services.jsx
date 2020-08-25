@@ -1,5 +1,6 @@
 import React from 'react'
 import './Services.css'
+import {VscEditorLayout, VscOrganization, VscServer} from 'react-icons/vsc'
 
 export default function Services() {
   return (
@@ -12,7 +13,8 @@ export default function Services() {
         <div className="my-skills">
           <div className="skill">
             <div className="icon-container">
-            <i className='fas fa-layer-group'></i>
+              {/* <i className='fas fa-layer-group'></i> */}
+              <VscServer className='icon-container-i'/>
             </div>
             <h1>Web Design</h1>
             <p>
@@ -22,7 +24,8 @@ export default function Services() {
           </div>
           <div className="skill">
             <div className="icon-container">
-            <i className='fas fa-code'></i>
+              <VscEditorLayout className='icon-container-i'/>
+            {/* <i className='fas fa-code'></i> */}
             </div>
             <h1>Web Developement</h1>
             <p>
@@ -32,9 +35,10 @@ export default function Services() {
           </div>
           <div className="skill">
             <div className="icon-container">
-            <i className='fas fa-chart-bar'></i>
+              {/* <i className='fas fa-chart-bar'></i> */}
+              <VscOrganization className='icon-container-i' />
             </div>
-            <h1>Product Strategy</h1>
+            <h1>Solutions Engineer</h1>
             <p>
               words blahhh words blahhh words blahhh words blahhh words blahhh
               words blahhh words blahhh words blahhh words blahhh words blahhh
