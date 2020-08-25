@@ -1,0 +1,45 @@
+.project-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 5rem;
+}
+
+.project-item:last-child{
+  margin-bottom: 0;
+}
+
+.project-img {
+  width: 50rem;
+  flex: 1;
+}
+
+.project-description {
+  /* flex: 1; */
+}
+
+.project-description h2 {
+  font-size: 3rem;
+  font-weight: 300;
+  margin: 1rem 0 ;
+}
+
+.project-description h6 {
+  font-size: 1.5rem;
+  text-transform: uppercase;
+  font-weight: 300;
+  opacity: .3;
+}
+
+.project-description .cta {
+  display: inline-block;
+  margin-top: 2.5rem;
+  font-size: 1.5rem;
+  text-transform: uppercase;
+  color: #3883ff;
+  transition: color 650ms;
+}
+
+.project-description .cta:hover {
+  color: #2f67cd;
+}
