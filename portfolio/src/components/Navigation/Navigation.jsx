@@ -9,7 +9,7 @@ export default function Navigation() {
       <ul className='nav-list'>
       <li>
         <a
-          // onClick={props.handleClick}
+          // onClick={handleClick}
           href="#home" class='nav-link'>Home</a>
       </li>
 
@@ -20,21 +20,27 @@ export default function Navigation() {
 
       <li>
         <a
+          // onClick={handleClick}
+
           href="#services" class='nav-link'>Services</a>
       </li>
 
       <li>
         <a
+          // onClick={handleClick}
+
           href="#projects" class='nav-link'>Projects</a>
       </li>
 
       <li>
         <a
+          // onClick={handleClick}
           href="#experience" class='nav-link'>Experience</a>
       </li>
 
       <li>
         <a
+          // onClick={handleClick}
           href="#contact" class='nav-link'>Contact</a>
       </li>
       </ul>
