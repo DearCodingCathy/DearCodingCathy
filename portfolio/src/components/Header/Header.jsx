@@ -1,11 +1,14 @@
 import React, {useState} from 'react'
-import Navigation from '../Navigation/Navigation'
 import './Header.css'
 
 export default function Header() {
 
   const [isOpen, setOpen] = useState(false)
 
+
+  const handleClick = () => {
+  setOpen(false)
+}
 
   return (
     <header>
@@ -17,7 +20,44 @@ export default function Header() {
       </div>
 
       <nav className={isOpen ? 'top-nav open': 'top-nav'}>
-      <Navigation />
+<ul className='nav-list'>
+      <li>
+        <a
+          onClick={handleClick}
+          href="#home" class='nav-link'>Home</a>
+      </li>
+
+      <li>
+            <a
+            onClick={handleClick}
+
+          href="#about" class='nav-link'>About</a>
+      </li>
+
+      <li>
+            <a
+            onClick={handleClick}
+          href="#services" class='nav-link'>Services</a>
+      </li>
+
+      <li>
+            <a
+            onClick={handleClick}
+          href="#projects" class='nav-link'>Projects</a>
+      </li>
+
+      <li>
+            <a
+            onClick={handleClick}
+          href="#experience" class='nav-link'>Experience</a>
+      </li>
+
+      <li>
+            <a
+            onClick={handleClick}
+          href="#contact" class='nav-link'>Contact</a>
+      </li>
+      </ul>
       </nav>
       
 

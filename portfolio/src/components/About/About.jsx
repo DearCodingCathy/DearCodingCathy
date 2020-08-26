@@ -17,10 +17,9 @@ export default function About() {
           <h6>Catherine</h6>
           </div>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-            Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            I am people-centric and highly organized Web Developer who holds over five year experience in the Customer Success and Operations space. 
+            Between developing customized, user-centric applications and solving complex supply-chain issues I have developed a data-driven approach in understanding the needs of diverse types of businesses and organizations. 
+            I seek the opportunity to work at a technology organization that leverages data to create highly efficient processes that advance the bottom line.
           </p>
           <div className="social-media">
           <ul class='nav-list'>

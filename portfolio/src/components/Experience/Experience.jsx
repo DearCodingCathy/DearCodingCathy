@@ -32,8 +32,13 @@ export default function Experience() {
                 Some random text
               </p>
             </li>
-            
           </ul>
+          <div className='resume'>
+            <a
+              className='resume-link'
+              href='https://drive.google.com/file/d/1X4YEnJyz5ufHRM5nZi-yVUggOY8WuNjo/view?usp=sharing'>View full Resume Here</a>
+          </div>
+          
         </div>
       </div>
       </section>
