@@ -61,6 +61,8 @@ export default function Contact() {
       </div>
 
         <form
+          name="contact"
+          data-netlify="true"
           onSubmit={handleSubmit}
           autoComplete='off'
         >
