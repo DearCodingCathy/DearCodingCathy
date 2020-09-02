@@ -10,7 +10,7 @@ export default function Contact() {
     message: ''
   })
 
-  
+
   const encode = (data) => {
     return Object.keys(data)
         .map(key => encodeURIComponent(key) + "=" + encodeURIComponent(data[key]))
@@ -29,7 +29,7 @@ export default function Contact() {
     fetch("/", {
         method: "POST",
         headers: { "Content-Type": "application/x-www-form-urlencoded" },
-        body: encode({ "form-name": "contact", ...this.state })
+        body: encode({ "form-name": "contact", ...formData })
       })
         .then(() => alert("Success!"))
         .catch(error => alert(error));
@@ -62,8 +62,13 @@ export default function Contact() {
 
         <form
           onSubmit={handleSubmit}
+          autoComplete='off'
         >
-          <label>Name:</label>
+          <label
+            name='name'
+          >
+            Name:
+            </label>
           <input
             type='text'
             value={formData.name}
@@ -72,7 +77,11 @@ export default function Contact() {
             onChange={handleChange}
           />
 
-          <label>Email:</label>
+          <label
+          name='email'
+          >
+            Email:
+            </label>
           <input
             type='email'
             value={formData.email}
@@ -82,7 +91,11 @@ export default function Contact() {
 
           />
 
-          <label>Message:</label>
+          <label
+            name='message'
+          >
+            Message:
+            </label>
           <textarea
             name='message'
             value={formData.message}
