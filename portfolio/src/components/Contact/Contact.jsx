@@ -1,13 +1,40 @@
-import React from 'react'
+import React, { useState } from 'react'
 import './Contact.css'
 import {FiMail} from 'react-icons/fi'
 
 export default function Contact() {
 
+  const [formData, setFormData] = useState({
+    name: '',
+    email: '',
+    message: ''
+  })
+
+  
+  const encode = (data) => {
+    return Object.keys(data)
+        .map(key => encodeURIComponent(key) + "=" + encodeURIComponent(data[key]))
+        .join("&");
+  }
+
+
+  const handleChange = (e) => {
+    setFormData({ ...formData, [e.target.name]: e.target.value })
+  }
+
+
   const handleSubmit = (e) => {
     e.preventDefault()
-    alert('Sent!')
+
+    fetch("/", {
+        method: "POST",
+        headers: { "Content-Type": "application/x-www-form-urlencoded" },
+        body: encode({ "form-name": "contact", ...this.state })
+      })
+        .then(() => alert("Success!"))
+        .catch(error => alert(error));
   }
+
   return (
       <section className='contact' id='contact'>
       
@@ -34,29 +61,34 @@ export default function Contact() {
       </div>
 
         <form
-          name='contact'
-          method='POST'
-          data-netlify="true"
           onSubmit={handleSubmit}
         >
           <label>Name:</label>
           <input
             type='text'
+            value={formData.name}
             name='name'
             placeholder='Name'
+            onChange={handleChange}
           />
 
           <label>Email:</label>
           <input
             type='email'
+            value={formData.email}
             name='email'
-          placeholder='Email'
+            placeholder='Email'
+            onChange={handleChange}
+
           />
 
           <label>Message:</label>
           <textarea
             name='message'
+            value={formData.message}
             placeholder='Message'
+            onChange={handleChange}
+
           />
           <button
             type='submit'
