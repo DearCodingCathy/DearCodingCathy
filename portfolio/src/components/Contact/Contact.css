@@ -1,9 +1,10 @@
 .contact {
-  background-color: #221e3f;
+  /* background-color: #575653; */
+  /* opacity: 0.7; */
 }
 
 form {
-  width: 70%;
+  width: 60%;
   margin: 0 auto;
 }
 
@@ -19,6 +20,10 @@ input, select, textarea {
   outline-color: #fd57bf;
 }
 
+textarea {
+  height: 20rem;
+}
+
 input[type='submit'] {
   width: initial;
   background-color: #fd57bf;
@@ -31,4 +36,47 @@ input[type='submit'] {
 input[type='submit']:hover {
   color: #221e3f;
   background-color: #ffe838;
+}
+
+.email-me {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.email-heading {
+font-size: 22px;
+font-family: "Roboto", sans-serif;
+/* color: rgba(255, 255, 255, 0.521); */
+text-transform: inherit;
+font-weight: 700;
+}
+
+.or-div {
+display: flex;
+justify-content: center;
+margin: 15px 0 15px 0;
+}
+
+.or-text {
+font-size: 25px;
+font-weight: 300;
+}
+
+.btn {
+border: 1px solid #fd57bf;
+background: none;
+padding: 10px 20px;
+font-size: 20px;
+color: white;
+cursor: pointer;
+/* margin: 10px ; */
+border-radius: 5px;
+transition: 0.8s;
+width: 100%;
+}
+
+.btn:hover {
+  background-color: #fd57bf;
 }

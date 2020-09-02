@@ -33,7 +33,7 @@ export default function Projects() {
 
           <div className="project-item">
             <div className="project-description has-margin-right">
-            <h6>Web Design</h6>
+            <h6>Web Development</h6>
             <h2>Sephoney</h2>
             <p>
               A makeup and beauty eccomerce website,
@@ -59,7 +59,7 @@ export default function Projects() {
             <img src='https://i.imgur.com/oCziOGi.png' alt='Breathe Desktop'/>
           </div>
           <div className="project-description">
-            <h6>Software Development</h6>
+            <h6>Full Stack Development</h6>
             <h2>Breathe</h2>
             <p>
               Created in collaboration with UX,
@@ -82,7 +82,7 @@ export default function Projects() {
 
           <div className="project-item">
               <div className="project-description has-margin-right">
-            <h6>Web Development</h6>
+            <h6>Full Stack Development</h6>
             <h2>Copped</h2>
             <p>
               Copped is a web application designed for sneaker heads. 
