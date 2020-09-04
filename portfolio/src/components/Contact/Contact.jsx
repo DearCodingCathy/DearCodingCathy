@@ -46,12 +46,14 @@ export default function Contact() {
 
         <div className='email-me'>
           <a
+          target='_blank'
           href='mailto: catherineobalogun@gmail.com'
           >
           <FiMail className='icon'/>
           </a>
           <a
             className='email-heading'
+            target='_blank'
             href='mailto: catherineobalogun@gmail.com'>
             catherineobalogun@gmail.com </a>
         </div>

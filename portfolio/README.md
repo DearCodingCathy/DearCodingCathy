@@ -1,68 +1,51 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <a href="https://www.mishakessler.com">
+  <img src="https://i.imgur.com/t1vQmXy.gifv" alt="CodingCathy Banner"/>
+  </a>
+</p>
 
-## Available Scripts
+<p align="center">
+  <a style="margin: 0 5px" href="https://www.catherinebalogun.com">
+    <img src="https://imgur.com/PowY5kh.png" alt="Custom Watercolor Portfolio Logo" height="40px"/>
+  </a>
+  <a style="margin: 0 5px" href="https://www.linkedin.com/in/catherinebalogun">
+    <img src="https://imgur.com/AoH5Wac.png" alt="Custom Watercolor LinkedIn Logo" height="40px"/>
+  </a>
+  <a style="margin: 0 5px" href="https://www.instagram.com/codingcathy">
+    <img src="https://imgur.com/YNTGISb.png" alt="Custom Watercolor Instagram Logo" height="40px"/>
+  </a>
+  <a style="margin: 0 5px" href="mailto:catherineobalogun@gmail.com">
+    <img src="https://imgur.com/nHHlXdx.png" alt="Custom Watercolor Email Logo" height="40px"/>
+  </a>
+</p>
 
-In the project directory, you can run:
+<h2 align="center">Hi there, I'm Catherine. 👋</h2>
 
-### `yarn start`
+### Overview
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- who holds over five year experience in the Customer Success and Operations space. Between developing customized, user-centric applications and solving complex supply-chain issues I have developed a data-driven approach in understanding the needs of diverse types of businesses and organizations. I seek the opportunity to work at a technology organization that leverages data to create highly efficient processes that advance the bottom line.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+- You can download my technical resumé at [this link](https://drive.google.com/file/d/1X4YEnJyz5ufHRM5nZi-yVUggOY8WuNjo/view) or on [my full portfolio](https://www.catherinebalogun.com/).
 
-### `yarn test`
+### Languages, Frameworks & Platforms
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+![](https://img.shields.io/badge/OS-Apple-informational?logo=apple&logoColor=white&color=00bac8)
+![](https://img.shields.io/badge/Shell-Zsh-informational?logo=gnu-bash&logoColor=white&color=00bac8)
+![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?logo=visual-studio-code&logoColor=white&color=00bac8)
+![](https://img.shields.io/badge/Language-JavaScript-informational?logo=javascript&logoColor=white&color=00bac8)
+![](https://img.shields.io/badge/Runtime-Node.js-informational?logo=node.js&logoColor=white&color=00bac8)
+![](https://img.shields.io/badge/Library-React.js-informational?logo=react&logoColor=white&color=00bac8)
+![](https://img.shields.io/badge/Framework-Gatsby.js-informational?logo=gatsby&logoColor=white&color=00bac8)
+![](https://img.shields.io/badge/Language-CSS-informational?logo=css3&logoColor=white&color=00bac8)
+![](https://img.shields.io/badge/Language-Styled_Components-informational?logo=styled-components&logoColor=white&color=00bac8)
+![](https://img.shields.io/badge/Language-Component_Libraries-informational?logo=storybook&logoColor=white&color=00bac8)
+![](<https://img.shields.io/badge/Language-SQL_(PostgreSQL)-informational?logo=postgresql&logoColor=white&color=00bac8>)
+![](<https://img.shields.io/badge/Language-noSQL_(DynamoDB)-informational?logo=MongoDB&logoColor=white&color=00bac8>)
+![](https://img.shields.io/badge/Language-Ruby-informational?logo=ruby&logoColor=white&color=00bac8)
+![](https://img.shields.io/badge/Framework-Rails-informational?logo=ruby-on-rails&logoColor=white&color=00bac8)
+![](https://img.shields.io/badge/Language-PHP-informational?logo=php&logoColor=white&color=00bac8)
+![](https://img.shields.io/badge/Platform-WordPress-informational?logo=wordpress&logoColor=white&color=00bac8)
+![](https://img.shields.io/badge/Platform-Netlify-informational?logo=netlify&logoColor=white&color=00bac8)
+![](https://img.shields.io/badge/Platform-Heroku-informational?logo=heroku&logoColor=white&color=00bac8)
+![](https://img.shields.io/badge/Platform-AWS-informational?logo=amazon-aws&logoColor=white&color=00bac8)
+![](https://img.shields.io/badge/Tools-Serverless-informational?logo=serverless&logoColor=white&color=00bac8)

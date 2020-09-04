@@ -24,9 +24,13 @@ export default function Projects() {
             Vanilla Javascript | NodeJS | Drag Race API 
 
             </p>
-            <a href='https://dearcodingcathy.github.io/Lipsync-for-your-life/' className='cta'>View Details</a>
+            <a
+              target='_blank'
+              href='https://dearcodingcathy.github.io/Lipsync-for-your-life/' className='cta'>View Details</a>
             <br />
-            <a href='https://github.com/DearCodingCathy/Lipsync-for-your-life/blob/master/README.md' className='cta'>See on Github</a>
+            <a
+              target='_blank'
+              href='https://github.com/DearCodingCathy/Lipsync-for-your-life/blob/master/README.md' className='cta'>See on Github</a>
 
           </div>
           </div>
@@ -44,9 +48,13 @@ export default function Projects() {
               <br />
               React | React Bootstrap | NodeJS
             </p>
-            <a href='https://sephoney.netlify.app/' className='cta'>View Details</a>
+            <a
+              target='_blank'
+              href='https://sephoney.netlify.app/' className='cta'>View Details</a>
             <br />
-            <a href='https://github.com/DearCodingCathy/SEPHONEY' className='cta'>See on Github</a>
+            <a
+              target='_blank'
+              href='https://github.com/DearCodingCathy/SEPHONEY' className='cta'>See on Github</a>
 
             </div>
           <div className="project-img ">
@@ -73,9 +81,13 @@ export default function Projects() {
               React | Express | MongoDB | React Bootstrap
 
             </p>
-            <a href='https://breathe-app-mcks.netlify.app/' className='cta'>View Details</a>
+            <a
+              target='_blank'
+              href='https://breathe-app-mcks.netlify.app/' className='cta'>View Details</a>
             <br />
-            <a href='https://github.com/DearCodingCathy/Breathe' className='cta'>See on Github</a>
+            <a
+              target='_blank'
+              href='https://github.com/DearCodingCathy/Breathe' className='cta'>See on Github</a>
 
             </div>
             </div>
@@ -93,9 +105,13 @@ export default function Projects() {
               <br />
               React | React Bootstrap | Ruby on Rails | PostgreSQL
             </p>
-            <a href='https://coppedheat.netlify.app/' className='cta'>View Details</a>
+            <a
+              target='_blank'
+              href='https://coppedheat.netlify.app/' className='cta'>View Details</a>
             <br />
-            <a href='https://github.com/DearCodingCathy/Copped' className='cta'>See on Github</a>
+            <a
+              target='_blank'
+              href='https://github.com/DearCodingCathy/Copped' className='cta'>See on Github</a>
             </div>
           <div className="project-img ">
             <img src='https://i.imgur.com/8t7ipNi.png' alt='Copped laptop'/>
