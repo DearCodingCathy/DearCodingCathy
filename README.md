@@ -23,7 +23,7 @@
 
 ### Overview
 
-- who holds over five year experience in the Customer Success and Operations space. Between developing customized, user-centric applications and solving complex supply-chain issues I have developed a data-driven approach in understanding the needs of diverse types of businesses and organizations. I seek the opportunity to work at a technology organization that leverages data to create highly efficient processes that advance the bottom line.
+- I am people-centric and highly organized Web Developer who holds over five year experience in the Customer Success and Operations space. Between developing customized, user-centric applications and solving complex supply-chain issues I have developed a data-driven approach in understanding the needs of diverse types of businesses and organizations. I seek the opportunity to work at a technology organization that leverages data to create highly efficient processes that advance the bottom line.
 
 - You can download my technical resumé at [this link](https://drive.google.com/file/d/1X4YEnJyz5ufHRM5nZi-yVUggOY8WuNjo/view) or on [my full portfolio](https://www.catherinebalogun.com/).
 
