@@ -5,6 +5,9 @@
 </p>
 
 <p align="center">
+  
+  [Imgur](https://i.imgur.com/t1vQmXy.gifv)
+  
   <a style="margin: 0 5px" href="https://www.catherinebalogun.com">
     <img src="https://imgur.com/PowY5kh.png" alt="Custom Watercolor Portfolio Logo" height="40px"/>
   </a>
