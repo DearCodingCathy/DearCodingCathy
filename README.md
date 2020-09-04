@@ -5,10 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://imgur.com/t1vQmXy"><img src="https://i.imgur.com/t1vQmXy.gif" title="source: imgur.com" /></a>
   
   <a style="margin: 0 5px" href="https://www.catherinebalogun.com">
-    <img src="https://imgur.com/PowY5kh.png" alt="Custom Watercolor Portfolio Logo" height="40px"/>
+    <img src="https://i.imgur.com/t1vQmXy.gifv" alt="Custom Watercolor Portfolio Logo" height="40px"/>
   </a>
   <a style="margin: 0 5px" href="https://www.linkedin.com/in/catherinebalogun">
     <img src="https://imgur.com/AoH5Wac.png" alt="Custom Watercolor LinkedIn Logo" height="40px"/>
