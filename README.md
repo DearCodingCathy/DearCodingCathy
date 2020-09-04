@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.catherinebalogun.com">
-  <img src="https://i.imgur.com/t1vQmXy.gifv" alt="CodingCathy Banner"/>
+  <img src="https://imgur.com/t1vQmXy" alt="CodingCathy Banner"/>
   </a>
 </p>
 
