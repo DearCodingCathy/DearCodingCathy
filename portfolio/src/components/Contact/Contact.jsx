@@ -47,6 +47,7 @@ export default function Contact() {
         <div className='email-me'>
           <a
           target='_blank'
+          rel="noopener noreferrer"
           href='mailto: catherineobalogun@gmail.com'
           >
           <FiMail className='icon'/>
@@ -54,6 +55,7 @@ export default function Contact() {
           <a
             className='email-heading'
             target='_blank'
+            rel="noopener noreferrer"
             href='mailto: catherineobalogun@gmail.com'>
             catherineobalogun@gmail.com </a>
         </div>

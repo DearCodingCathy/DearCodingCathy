@@ -26,10 +26,12 @@ export default function Projects() {
             </p>
             <a
               target='_blank'
+              rel="noopener noreferrer"
               href='https://dearcodingcathy.github.io/Lipsync-for-your-life/' className='cta'>View Details</a>
             <br />
             <a
               target='_blank'
+              rel="noopener noreferrer"
               href='https://github.com/DearCodingCathy/Lipsync-for-your-life/blob/master/README.md' className='cta'>See on Github</a>
 
           </div>
@@ -50,10 +52,12 @@ export default function Projects() {
             </p>
             <a
               target='_blank'
+              rel="noopener noreferrer"
               href='https://sephoney.netlify.app/' className='cta'>View Details</a>
             <br />
             <a
               target='_blank'
+              rel="noopener noreferrer"
               href='https://github.com/DearCodingCathy/SEPHONEY' className='cta'>See on Github</a>
 
             </div>
@@ -83,10 +87,12 @@ export default function Projects() {
             </p>
             <a
               target='_blank'
+              rel="noopener noreferrer"
               href='https://breathe-app-mcks.netlify.app/' className='cta'>View Details</a>
             <br />
             <a
               target='_blank'
+              rel="noopener noreferrer"
               href='https://github.com/DearCodingCathy/Breathe' className='cta'>See on Github</a>
 
             </div>
@@ -107,10 +113,12 @@ export default function Projects() {
             </p>
             <a
               target='_blank'
+              rel="noopener noreferrer"
               href='https://coppedheat.netlify.app/' className='cta'>View Details</a>
             <br />
             <a
               target='_blank'
+              rel="noopener noreferrer"
               href='https://github.com/DearCodingCathy/Copped' className='cta'>See on Github</a>
             </div>
           <div className="project-img ">

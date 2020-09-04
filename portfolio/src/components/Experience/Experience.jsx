@@ -52,6 +52,7 @@ Managed customer returns and replacement reporting.    </p>
   <a
     className='resume-link'
     target='_blank'
+    rel="noopener noreferrer"
     href='https://drive.google.com/file/d/1X4YEnJyz5ufHRM5nZi-yVUggOY8WuNjo/view?usp=sharing'>View full Resume Here</a>
 </div>
 
