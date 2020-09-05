@@ -6,7 +6,7 @@ export default function Footer() {
   return (
     <footer className='copyright'>
       
-      <a href='Home'>
+      <a href='home'>
       <div className="up">
         {/* <i className="fas fa-chevron-up"></i> */}
         <IoIosArrowUp className="up-i" />
