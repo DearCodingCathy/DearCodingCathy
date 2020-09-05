@@ -10,7 +10,7 @@ export default function About() {
 <section className='about' id='about'>
 <div className="container">
 <div className="profile-img">
-  <img src='https://i.imgur.com/00xd3pX.jpg' alt='Catherine Balogun'/>
+  <img src='https://i.imgur.com/0r76R0h.jpg' alt='Catherine Balogun'/>
 </div>
 <div className="about-details">
 <div className="about-heading">
