@@ -1,3 +1,9 @@
+<p align="center">
+<a href="https://catherinebalogun.com">
+  <img src="https://i.imgur.com/JMefgF9.png" title="source: imgur.com" />
+</a>
+</p>
+
 <h1 align="center">Hi 👋, I'm Catherine</h1>
 <h3 align="center">A passionate frontend developer from New York</h3>
 
