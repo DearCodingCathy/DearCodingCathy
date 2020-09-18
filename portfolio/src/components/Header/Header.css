@@ -49,7 +49,7 @@ header {
   align-items: center;
 }
 
-li {
+Link {
   margin: 0 2rem;
 }
 
@@ -117,9 +117,6 @@ transition: transform 650ms ease-out;
 .open .bar.end {
   transform: rotate(-450deg) translateX(-.8rem);
 }
-
-
-
 
 
 

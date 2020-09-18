@@ -1,5 +1,7 @@
 import React, {useState} from 'react'
 import './Header.css'
+import { Link } from "react-scroll";
+
 
 export default function Header() {
 
@@ -21,41 +23,101 @@ export default function Header() {
 
       <nav className={isOpen ? 'top-nav open': 'top-nav'}>
         <ul className='nav-list'>
-      {/* <li>
-        <a
-          onClick={handleClick}
-          href="#home" class='nav-link'>Home</a>
-      </li> */}
 
-      <li>
+          
+    <Link
+    class='nav-link'
+    activeClass="active"
+    to="about"
+    spy={true}
+    smooth={true}
+    offset={-70}
+    duration={500}
+    onClick={handleClick}
+    >About</Link>
+
+      {/* <li>
             <a
             onClick={handleClick}
           href="#about" class='nav-link'>About</a>
-      </li>
+      </li> */}
 
-      <li>
+          
+
+
+
+      {/* <li>
         <a
           onClick={handleClick}
           href="#services" class='nav-link'>Services</a>
-      </li>
+          </li> */}
+          
+    <Link
+    class='nav-link'
+    activeClass="active"
+    to="services"
+    spy={true}
+    smooth={true}
+    offset={-70}
+    duration={500}
+    onClick={handleClick}>
+    Services</Link>
 
-      <li>
+      {/* <li>
         <a
           onClick={handleClick}
           href="#projects" class='nav-link'>Projects</a>
-      </li>
+      </li> */}
 
-      <li>
+    <Link
+    class='nav-link'
+    activeClass="active"
+    to="projects"
+    spy={true}
+    smooth={true}
+    offset={-70}
+    duration={500}
+    onClick={handleClick}>
+    Projects</Link>
+
+
+
+      {/* <li>
         <a
           onClick={handleClick}
           href="#experience" class='nav-link'>Experience</a>
-      </li>
+          </li> */}
 
-      <li>
+    <Link
+    class='nav-link'
+    activeClass="active"
+    to="experience"
+    spy={true}
+    smooth={true}
+    offset={-70}
+    duration={750}
+    onClick={handleClick}>
+    Experience</Link>
+          
+
+
+      {/* <li>
         <a
           onClick={handleClick}
           href="#contact" class='nav-link'>Contact</a>
-      </li>
+          </li> */}
+          
+
+    <Link
+    class='nav-link'
+    activeClass="active"
+    to="contact"
+    spy={true}
+    smooth={true}
+    offset={-70}
+    duration={1000}
+    onClick={handleClick}>
+    Contact</Link>
       </ul>
       </nav>
 
