@@ -29,9 +29,9 @@ export default function Header() {
     class='nav-link'
     activeClass="active"
     to="about"
-    spy={true}
+    spy={false}
     smooth={true}
-    offset={-70}
+    offset={0}
     duration={500}
     onClick={handleClick}
     >About</Link>
@@ -56,9 +56,9 @@ export default function Header() {
     class='nav-link'
     activeClass="active"
     to="services"
-    spy={true}
+    spy={false}
     smooth={true}
-    offset={-70}
+    offset={0}
     duration={500}
     onClick={handleClick}>
     Services</Link>
@@ -73,9 +73,9 @@ export default function Header() {
     class='nav-link'
     activeClass="active"
     to="projects"
-    spy={true}
+    spy={false}
     smooth={true}
-    offset={-70}
+    offset={0}
     duration={500}
     onClick={handleClick}>
     Projects</Link>
@@ -92,9 +92,9 @@ export default function Header() {
     class='nav-link'
     activeClass="active"
     to="experience"
-    spy={true}
+    spy={false}
     smooth={true}
-    offset={-70}
+    offset={0}
     duration={750}
     onClick={handleClick}>
     Experience</Link>
@@ -112,9 +112,9 @@ export default function Header() {
     class='nav-link'
     activeClass="active"
     to="contact"
-    spy={true}
+    spy={false}
     smooth={true}
-    offset={-70}
+    offset={0}
     duration={1000}
     onClick={handleClick}>
     Contact</Link>
