@@ -18,7 +18,7 @@ export default function About() {
 <h6>Catherine</h6>
 </div>
 <p>
-  I am people-centric and highly organized Web Developer who holds over five year experience in the Customer Success and Operations space. 
+  I am a people-centric and highly organized Web Developer who holds over five years experience in the Customer Success and Operations space. 
   Between developing customized, user-centric applications and solving complex supply-chain issues I have developed a data-driven approach in understanding the needs of diverse types of businesses and organizations. 
   I seek the opportunity to work at a technology organization that leverages data to create highly efficient processes that advance the bottom line.
 </p>
