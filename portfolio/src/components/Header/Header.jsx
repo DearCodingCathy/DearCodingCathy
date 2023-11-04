@@ -123,7 +123,7 @@ export default function Header() {
 
       <div className="landing-text">
       <h1>Catherine Balogun</h1>
-      <h6>Software Engineer | Solutions Engineer | Web Developer</h6>
+      <h6>Software Engineer | Front End Engineer | Front End Developer</h6>
     </div>
     </header>
   )
